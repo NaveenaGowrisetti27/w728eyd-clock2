@@ -1,1 +1,1 @@
-# w728eyd-clock2
+# w728eyd/clock2
